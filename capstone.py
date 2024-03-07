@@ -57,4 +57,3 @@ while user_input != "bond" or user_input != "investment":
         print(f"The amount you will have to pay back each month is {repayment}.")
     else:
         print("Invalid option, please choose from the options provided!")
-        
